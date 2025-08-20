@@ -19,8 +19,8 @@ Happiness scores: With salary: 4.27 out of 10 , With work life balance: 5.74 out
 
 link : https://app.powerbi.com/view?r=eyJrIjoiNTE1ODM1ZjQtYWVmYy00OTBkLTkxMWEtOGUwMjFkZmVlMjQ0IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9
 
+<img width="1464" height="713" alt="image" src="https://github.com/user-attachments/assets/4073905e-4d59-40d1-851a-079d2496d794" />
 
-<img width="1422" height="711" alt="image" src="https://github.com/user-attachments/assets/7c5f6f07-7ab4-45e2-acde-d0bef6650c29" />
 
 
 
